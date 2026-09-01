@@ -1,0 +1,2 @@
+[functions.send-diagnostic]
+verify_jwt = false
